@@ -282,3 +282,12 @@ body{
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     visibility: visible
 }
+.img-profile {
+  max-width: 120px;
+}
+
+@media (min-width: 992px) {
+  .img-profile {
+    max-width: 160px;
+  }
+}
