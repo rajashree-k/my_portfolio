@@ -284,6 +284,8 @@ body{
 }
 .img-profile {
   max-width: 120px;
+  display: block;
+  margin: 0 auto 15px auto;
 }
 
 @media (min-width: 992px) {
